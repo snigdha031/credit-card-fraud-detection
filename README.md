@@ -105,7 +105,7 @@ Reason: Best trade-off between fraud detection and operational false alarms.
 
 ---
 
-## 🧠 Key Takeaways
+## Key Takeaways
 
 - Accuracy is misleading in imbalanced datasets.
 - Precision–recall analysis is critical for fraud detection.
